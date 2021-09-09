@@ -2,7 +2,7 @@
 ![image](https://user-images.githubusercontent.com/41934505/132633528-05e60108-9aef-49d4-bf49-4d81f55cce2f.png)
 
 ## 프로젝트 요약
-> 2018.08.01. ~ 2018.09.07.
+> 2018.08.01. ~ 2018.09.11.
 
 > #### Full-stack Developer
 
